@@ -1,0 +1,5 @@
+print("MY NAME IS WASEEM")
+print("I LIVE IN SOLAPUR")
+print("I AM A COMPUTER SCIENCE ENGINEER")
+print("THIS IS MY FIRST PROGRAM IN PYTHON")
+print("I like coding very much")
