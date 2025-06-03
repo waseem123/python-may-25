@@ -1,0 +1,19 @@
+Decision Making - 
+The process of deciding the flow of program.
+
+There are two types of Decision Making 
+ 1. Conditional
+    a. if statement
+
+        if <CONDITION>:
+            statement 1
+            statement 2
+            ...
+            statment N
+    
+    b. if-else statement
+    c. if - elif - else statement
+    d. Nested Conditions
+
+ 2. Choice based
+    a. match statement
