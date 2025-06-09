@@ -1,15 +1,24 @@
+Operator is any symbol that can perform an operation on data. 
+The operation can be anything like 
+
 1. Arithmetic Operators
-    (+,-,*,/,%,//,**)
+    (Addition +, Subtraction -, Multiplication *,
+    Division /, Modulus %, Floor Division //, Exponential **)
+
 2. Assignment Operators
     (=, +=, -=, *=, /=, %= , //=)
+
 3. Comparison Operators / Relational Operators / Conditional Operators
     (<, >, <=, >=, ==, !=)
+    
 4. Logical Operators
     (and, or, not)
+    
 5. Bitwise Operators
     (&, |)
 6. Shift Operators
     (<<, >>)
+    
 7. Identity Operators
     (is, is not)
 8. Membership Operators
