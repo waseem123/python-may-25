@@ -1,0 +1,27 @@
+LIST -
+    list is a collection of elements.
+    It is an ordered, indexed and mutable collection
+    that allows the repeated values.
+
+How to create a list?
+Method 1 - 
+listname = [value1, value2, value3...valueN]
+
+Method 2 (Using list constructor) - 
+listname = list((value1,value2,value3,... valueN))
+
+1. Length of the list - 
+    No. of elements present in the list
+2. Index - 
+    Programmatic address of each element in the list
+LISTS are indexed
+    where index starts from zero and ends on length-1
+
+LISTS are mutable-
+    -We can add new values in the list
+    -We can change any value from the list
+    -We can delete any value from the list
+    -We can clear the entire list
+    -We can delete the list
+    -We can sort the list
+    -We can extend the list
