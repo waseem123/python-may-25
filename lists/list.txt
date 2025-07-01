@@ -25,3 +25,6 @@ LISTS are mutable-
     -We can delete the list
     -We can sort the list
     -We can extend the list
+
+    range(1,100)
+    
