@@ -1,0 +1,23 @@
+Function is a self contained block of code to perform
+a specific task
+
+There are 2 Phases of function
+1. Definition
+    writting the actual logic of the function
+    Syntax - 
+    def NAME_OF_FUNCTION(parameter1,paremeter2..parameterN):
+        statement 1
+        statement 2
+        ...
+        statement N
+
+2. Invokation (call)
+    Call to the function
+    syntax - 
+    NAME_OF_FUNCTION(value1,value2..valueN)
+
+Types of functions - 
+1. No parameter and No Return Value
+2. Parameter but No Return Value
+3. No Parameter but Return Value
+4. Parameter and Return Value Both
