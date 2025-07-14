@@ -1,0 +1,16 @@
+OBJECT ? 
+    is a real world thing.
+
+    objects can be identified by
+        - Properties
+        - Functionalities
+    
+    Object definition lies in the class
+        -Properties
+        -functionalities
+
+There are 4 major principles of OOP
+    1. Data Abstraction
+    2. Data Encapsulation
+    3. Inheritance
+    4. Polymorphism
